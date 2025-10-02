@@ -1,0 +1,9 @@
+name: kav16Disable
+version: '1'
+main: ru.kav16disable.kav16Disable
+api-version: '1.16'
+commands:
+  kav16disable:
+    description: Перезагрузка плагина kav16Disable
+    usage: /kav16disable reload
+    permission: kav16disable.reload
